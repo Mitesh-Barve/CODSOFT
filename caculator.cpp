@@ -4,7 +4,7 @@ operations such as addition, subtraction, multiplication, and
 division. Allow the user to input two numbers and choose an
 operation to perform.*/
 #include<iostream>
-#include<bits/stdc++.h>
+#include<bits/stdc++>
 using namespace std;
 
 int main()
